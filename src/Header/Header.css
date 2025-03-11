@@ -1,0 +1,18 @@
+.container-fluid {
+  margin: 0 !important;
+  padding: 10px !important;
+}
+
+.navbar {
+  background-color: #374053;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+.btn-outline-success {
+  background-color: #19b90aa6 !important;
+  color: black !important;
+}
+.btn-outline-success:hover {
+  background-color: #0c5c04a6 !important;
+  border-color: #0c5c04a6 !important;
+}
